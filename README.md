@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Rajasi! (*^_^*)
+
+I'm a Software Engineer who loves understanding how humans think, learn, and function — picking apart the brain to understand what makes us human, and then translating those insights into software that can help people.
+
+My interests sit at the intersection of software engineering, neuroscience, and human behavior. I enjoy building technology that isn't just functional, but meaningful and useful to the people who interact with it. I have experience building and supporting production applications, with a focus on Java, Spring Boot, SQL, backend development, and full-stack applications.
+
+⚡ Fun fact: I have a dual degree in Computer Science and Psychology! 
+
+(I am still working on building this profile😁)
 
 <!--
 **Rajasi-Desai/Rajasi-Desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
