@@ -6,8 +6,6 @@ My interests sit at the intersection of software engineering, neuroscience, and 
 
 ⚡ Fun fact: I have a dual degree in Computer Science and Psychology! 
 
-(I am still working on building this profile😁)
-
 <!--
 **Rajasi-Desai/Rajasi-Desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
