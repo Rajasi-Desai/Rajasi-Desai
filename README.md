@@ -4,6 +4,9 @@ I'm a Software Engineer who loves understanding how humans think, learn, and fun
 
 My interests sit at the intersection of software engineering, neuroscience, and human behavior. I enjoy building technology that isn't just functional, but meaningful and useful to the people who interact with it. I have experience building and supporting production applications, with a focus on Java, Spring Boot, SQL, backend development, and full-stack applications.
 
+Here is my portfolio - [Portfolio Link](https://rajasi-desai.github.io/) 
+(It is still a work in progress - hopefully it will be fully functioning soon)
+
 ⚡ Fun fact: I have a dual degree in Computer Science and Psychology! 
 
 <!--
