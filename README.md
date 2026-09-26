@@ -77,7 +77,7 @@
 
 ### Footnotes
 
-[^list]: Logos listed out -
+[^list]: Skills details -
 
     Languages: Java, JavaScript, Python, SQL, C, C++, R, MATLAB, TypeScript, PHP, HTML, CSS
 
