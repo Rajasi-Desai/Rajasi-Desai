@@ -1,22 +1,55 @@
 ## Hi there, I'm Rajasi! (_^\_^_)
 
-<!-- <video width="600" controls>
-  <source src="assets/images/Cat-coding.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
+<!-- Hello fellow dev! I see you are looking at my profile code. If you have any suggestions lemme know 😁 -->
 
 <div>
-  <img align="right" hspace="20" src="./assets/images/Cat-coding.gif" alt="Cat coding GIF"/>
+  <img align="right" src="./assets/images/Cat-coding.gif" width=30% alt="Cat coding GIF"/>
   <p align="left">I'm a Software Engineer who loves understanding how humans think, learn, and function — picking apart the brain to understand what makes us human, and then translating those insights into software that can help people.</p>
   <p align="left">My interests sit at the intersection of software engineering, neuroscience, and human behavior. I enjoy building technology that isn't just functional, but meaningful and useful to the people who interact with it. I have experience building and supporting production applications, with a focus on Java, Spring Boot, SQL, backend development, and full-stack applications.</p>
+  <p> Outside of work, I love learning linguistic languages, LEGO, dancing and a few more hobbies that I seasonally rotate through. </p>
 </div>
 
 <!-- Here is my portfolio - [Portfolio Link](https://rajasi-desai.github.io/)  -->
 
 > **Currently (Sep 2026) looking for full time positions for Full Stack or Frontend Software Engineer roles!**
 
-✨ Fun fact: I have a dual degree in Computer Science and Psychology!
+### My Skills
 
+#### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,mysql,c,cpp,r,matlab,ts,php,html,css" alt="Languages"/>
+  </a>
+</p>
+
+
+#### Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,react,nextjs,express,bootstrap,tailwind,styledcomponents,vite,androidstudio,firebase,heroku" alt="Frameworks and Libraries"/>
+  </a>
+</p>
+
+#### Databases & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,firebase,aws,kubernetes" alt="Databases and Cloud"/>
+  </a>
+</p>
+
+#### Developer Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,eclipse,maven,gradle,npm,jenkins" alt="Developer Tools"/>
+  </a>
+</p>
+
+### ✨ Fun facts 
+- I have two degrees from my undergrad - Computer Science and Psychology 🤓
+- I have 40+ LEGO sets with most of them being botanical 😅
+- I like to crochet but carpal tunnel is not my friend 🧶
+
+### Contact me!
 💬 I would love to hear from you! Feel free to reach out through email or connect with me on LinkedIn.
 
 <!-- <div align="center"> <a href="rajasi.desai18@gmail.com"> rajasi.desai18@gmail.com </a></div>
@@ -25,7 +58,15 @@
 [https://www.linkedin.com/in/rajasi-desai](https://www.linkedin.com/in/rajasi-desai)
 [https://github.com/Rajasi-Desai](https://github.com/Rajasi-Desai)   -->
 
-<div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajasi-desai)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:rajasi.desai18@gmail.com)
+
+### Portfolio
+<a href="https://rajasi-desai.github.io/">
+      <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/>
+</a>
+
+<!-- <div>
     <a href="https://www.linkedin.com/in/rajasi-desai">
         <img src="assets/images/LinkedIn-Logo.png" alt="LinkedIn" height="35"/>
     </a>
@@ -35,7 +76,7 @@
      <a href="https://rajasi-desai.github.io/">
         <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/>
     </a>
-</div>
+</div> -->
 
 ### Employer?
 
