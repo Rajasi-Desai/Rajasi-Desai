@@ -13,10 +13,15 @@
 
 ### Employer?
 
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download>Download my resume</a>
+> [!IMPORTANT]
+> <div> <a align="left" href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download>Download my resume</a> <a align="right" href="https://rajasi-desai.github.io/"> <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/></a></div>
 
 <sub>Last updated September 2026 </sub>
+
+### Portfolio
+<a href="https://rajasi-desai.github.io/">
+      <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/>
+</a>
 
 ### My Skills
 
@@ -61,11 +66,6 @@ Don't know the logos? Here's it listed out [^list]
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajasi-desai)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rajasi.desai18@gmail.com)
-
-### Portfolio
-<a href="https://rajasi-desai.github.io/">
-      <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/>
-</a>
 
 ### Footnotes
 [^list]: Logos listed out - 
