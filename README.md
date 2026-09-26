@@ -14,25 +14,23 @@
 ### Employer?
 
 > [!IMPORTANT]
-> <div> <a align="left" href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download>Download my resume</a> <a align="right" href="https://rajasi-desai.github.io/"> <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/></a></div>
+>
+> <div> <a align="left" href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download>Download my resume</a>&emsp;&emsp;<a align="right" href="https://rajasi-desai.github.io/"> Go to my Portfolio</a></div>
 
 <sub>Last updated September 2026 </sub>
-
-### Portfolio
-<a href="https://rajasi-desai.github.io/">
-      <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/>
-</a>
 
 ### My Skills
 
 #### Languages
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,mysql,c,cpp,r,matlab,ts,php,html,css" alt="Languages"/>
   </a>
-</p> 
+</p>
 
 #### Frameworks & Libraries
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,hibernate,react,nextjs,express,bootstrap,tailwind,styledcomponents,vite,androidstudio,firebase,heroku" alt="Frameworks and Libraries"/>
@@ -40,6 +38,7 @@
 </p>
 
 #### Databases & Cloud
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,firebase,aws,kubernetes" alt="Databases and Cloud"/>
@@ -47,6 +46,7 @@
 </p>
 
 #### Developer Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,eclipse,maven,gradle,npm,jenkins" alt="Developer Tools"/>
@@ -54,21 +54,30 @@
 </p>
 
 > [!NOTE]  
-Don't know the logos? Here's it listed out [^list] 
+> Don't know the logos? Here's it listed out [^list]
 
-### ✨ Fun facts 
+### Portfolio
+
+<a href="https://rajasi-desai.github.io/">
+      <img src="assets/images/Profile-bitmoji.jpeg" alt="Portfolio" height="60"/>
+</a>
+
+### ✨ Fun facts
+
 - I have two degrees from my undergrad - Computer Science and Psychology 🤓
 - I have 40+ LEGO sets with most of them being botanical 😅
 - I like to crochet but carpal tunnel is not my friend 🧶
 
 ### Contact me!
+
 💬 I would love to hear from you! Feel free to reach out through email or connect with me on LinkedIn.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajasi-desai)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rajasi.desai18@gmail.com)
 
 ### Footnotes
-[^list]: Logos listed out - 
+
+[^list]: Logos listed out -
 
     Languages: Java, JavaScript, Python, SQL, C, C++, R, MATLAB, TypeScript, PHP, HTML, CSS
 
