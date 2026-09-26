@@ -9,9 +9,14 @@
   <p> Outside of work, I love learning linguistic languages, LEGO, dancing and a few more hobbies that I seasonally rotate through. </p>
 </div>
 
-<!-- Here is my portfolio - [Portfolio Link](https://rajasi-desai.github.io/)  -->
-
 > **Currently (Sep 2026) looking for full time positions for Full Stack or Frontend Software Engineer roles!**
+
+### Employer?
+
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download>Download my resume</a>
+
+<sub>Last updated September 2026 </sub>
 
 ### My Skills
 
@@ -20,8 +25,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,mysql,c,cpp,r,matlab,ts,php,html,css" alt="Languages"/>
   </a>
-</p>
-
+</p> 
 
 #### Frameworks & Libraries
 <p align="center">
@@ -44,6 +48,9 @@
   </a>
 </p>
 
+> [!NOTE]  
+Don't know the logos? Here's it listed out [^list] 
+
 ### ✨ Fun facts 
 - I have two degrees from my undergrad - Computer Science and Psychology 🤓
 - I have 40+ LEGO sets with most of them being botanical 😅
@@ -51,12 +58,6 @@
 
 ### Contact me!
 💬 I would love to hear from you! Feel free to reach out through email or connect with me on LinkedIn.
-
-<!-- <div align="center"> <a href="rajasi.desai18@gmail.com"> rajasi.desai18@gmail.com </a></div>
-<div align="center"> <a href="https://www.linkedin.com/in/rajasi-desai"> https://www.linkedin.com/in/rajasi-desai </a></div>
-<div align="center"> <a href="rajasi.desai18@gmail.com"> rajasi.desai18@gmail.com </a></div>
-[https://www.linkedin.com/in/rajasi-desai](https://www.linkedin.com/in/rajasi-desai)
-[https://github.com/Rajasi-Desai](https://github.com/Rajasi-Desai)   -->
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajasi-desai)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rajasi.desai18@gmail.com)
@@ -66,36 +67,13 @@
       <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/>
 </a>
 
-<!-- <div>
-    <a href="https://www.linkedin.com/in/rajasi-desai">
-        <img src="assets/images/LinkedIn-Logo.png" alt="LinkedIn" height="35"/>
-    </a>
-    <a href="rajasi.desai18@gmail.com">
-        <img src="assets/images/Gmail-Logo.jpg" alt="Email" height="35"/>
-    </a>
-     <a href="https://rajasi-desai.github.io/">
-        <img src="assets/images/Portfolio-Logo.png" alt="Portfolio" height="35"/>
-    </a>
-</div> -->
+### Footnotes
+[^list]: Logos listed out - 
 
-### Employer?
+    Languages: Java, JavaScript, Python, SQL, C, C++, R, MATLAB, TypeScript, PHP, HTML, CSS
 
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download>Download my resume</a>
+    Frameworks & Libraries: Spring, Hibernate, React, Next.js, Express, Bootstrap, Tailwind CSS, Styled Components, Vite, Android Studio, Firebase, Heroku
 
-<sub>Last updated September 2026 </sub>
+    Databases & Cloud: SQL, Docker, PostgreSQL, MySQL, MongoDB, Firebase, AWS, Kubernetes
 
-<!--
-**Rajasi-Desai/Rajasi-Desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Developer Tools: Git, GitHub, GitLab, Visual Studio Code, IntelliJ IDEA, Eclipse, Maven, Gradle, npm, Jenkins
