@@ -6,7 +6,15 @@ My interests sit at the intersection of software engineering, neuroscience, and 
 
 Here is my portfolio - [Portfolio Link](https://rajasi-desai.github.io/) 
 
-⚡ Fun fact: I have a dual degree in Computer Science and Psychology! 
+**Currently (Sep 2026) looking for full time positions for Full Stack or Frontend Software Engineer roles!**
+
+✨ Fun fact: I have a dual degree in Computer Science and Psychology! 
+
+💬 I would love to hear from you! Feel free to reach out through email or connect with me on LinkedIn.
+
+<div align="center"> <a href="rajasi.desai18@gmail.com"> rajasi.desai18@gmail.com </a></div> 
+[https://www.linkedin.com/in/rajasi-desai](https://www.linkedin.com/in/rajasi-desai)  
+[https://github.com/Rajasi-Desai](https://github.com/Rajasi-Desai)  
 
 <!--
 **Rajasi-Desai/Rajasi-Desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
