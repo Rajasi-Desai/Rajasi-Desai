@@ -15,7 +15,7 @@
 
 > [!IMPORTANT]
 >
-> <div> <a align="left" href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download>Download my resume</a>&emsp;&emsp;<a align="right" href="https://rajasi-desai.github.io/"> Go to my Portfolio</a></div>
+> <div> <a align="left" href="https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing" download target="_blank" rel="noopener noreferrer">Download my resume</a>&emsp;&emsp;<a align="right" target="_blank" rel="noopener noreferrer" href="https://rajasi-desai.github.io/"> Go to my Portfolio</a></div>
 
 <sub>Last updated September 2026 </sub>
 
