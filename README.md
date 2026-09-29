@@ -11,7 +11,7 @@
 
 > **Currently (Sep 2026) looking for full time positions for Full Stack or Frontend Software Engineer roles!**
 
-### Employer?
+### Are you an Employer/Hiring manager/Tech recuriter?
 
 > [!IMPORTANT]
 >
