@@ -59,7 +59,7 @@
 ### Portfolio
 
 <a href="https://rajasi-desai.github.io/">
-      <img src="assets/images/Profile-bitmoji.jpeg" alt="Portfolio" height="60"/>
+      <img src="assets/images/Cat-RD-logo.png" alt="Portfolio" height="60"/>
 </a>
 
 ### ✨ Fun facts
