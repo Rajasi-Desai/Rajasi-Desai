@@ -9,7 +9,7 @@
   <p> Outside of work, I love learning linguistic languages, LEGO, dancing and a few more hobbies that I seasonally rotate through. </p>
 </div>
 
-> **Currently (Sep 2026) looking for full time positions for Full Stack or Frontend Software Engineer roles!**
+> **Currently looking for full time positions for Full Stack or Frontend Software Engineer roles!**
 
 ### Are you an Employer/Hiring manager/Tech recuriter?
 
